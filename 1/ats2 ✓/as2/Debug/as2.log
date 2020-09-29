@@ -1,0 +1,4 @@
+﻿  as2.cpp
+d:\university\main\algorithm\ats2 ●\as2\as2.cpp(91): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  as2.vcxproj -> D:\University\Main\Algorithm\ats2 ●\Debug\as2.exe
+  as2.vcxproj -> D:\University\Main\Algorithm\ats2 ●\Debug\as2.pdb (Partial PDB)

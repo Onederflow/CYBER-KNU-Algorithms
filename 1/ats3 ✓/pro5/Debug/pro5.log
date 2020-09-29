@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  pro5.cpp
+d:\university\main\algorithm\ats3 ●\pro5\pro5.cpp(95): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pro5.vcxproj -> D:\University\Main\Algorithm\ats3 ●\Debug\pro5.exe
+  pro5.vcxproj -> D:\University\Main\Algorithm\ats3 ●\Debug\pro5.pdb (Partial PDB)

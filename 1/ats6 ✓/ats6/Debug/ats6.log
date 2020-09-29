@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ats6.cpp
+d:\university\main\algorithm\ats6 ●\ats6\ats6.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats6 ●\ats6\ats6.cpp(19): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats6 ●\ats6\ats6.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+  ats6.vcxproj -> D:\University\Main\Algorithm\ats6 ●\Debug\ats6.exe
+  ats6.vcxproj -> D:\University\Main\Algorithm\ats6 ●\Debug\ats6.pdb (Partial PDB)

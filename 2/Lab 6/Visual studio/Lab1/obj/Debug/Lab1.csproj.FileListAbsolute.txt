@@ -1,0 +1,30 @@
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 5\Visual studio\Lab1\bin\Debug\Lab1.exe.config
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 5\Visual studio\Lab1\bin\Debug\Lab1.exe
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 5\Visual studio\Lab1\bin\Debug\Lab1.pdb
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 5\Visual studio\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 5\Visual studio\Lab1\obj\Debug\Lab1.Form1.resources
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 5\Visual studio\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 5\Visual studio\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 5\Visual studio\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 5\Visual studio\Lab1\obj\Debug\Lab1.exe
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 5\Visual studio\Lab1\obj\Debug\Lab1.pdb
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 6\Visual studio\Lab1\bin\Debug\Lab1.exe.config
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 6\Visual studio\Lab1\bin\Debug\Lab1.exe
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 6\Visual studio\Lab1\bin\Debug\Lab1.pdb
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 6\Visual studio\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 6\Visual studio\Lab1\obj\Debug\Lab1.Form1.resources
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 6\Visual studio\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 6\Visual studio\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 6\Visual studio\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 6\Visual studio\Lab1\obj\Debug\Lab1.exe
+D:\GitHub\Study\Algorithms\Term 4\Practice\Lab 6\Visual studio\Lab1\obj\Debug\Lab1.pdb

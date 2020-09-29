@@ -1,0 +1,13 @@
+﻿  ats5.cpp
+d:\university\main\algorithm\ats5\ats5\ats5.cpp(31): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\university\main\algorithm\ats5\ats5\ats5.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats5\ats5\ats5.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats5\ats5\ats5.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats5\ats5\ats5.cpp(144): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats5\ats5\ats5.cpp(146): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats5\ats5\ats5.cpp(207): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats5\ats5\ats5.cpp(210): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats5\ats5\ats5.cpp(222): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats5\ats5\ats5.cpp(225): warning C4018: <: несоответствие типов со знаком и без знака
+  ats5.vcxproj -> D:\University\Main\Algorithm\ats5\Debug\ats5.exe
+  ats5.vcxproj -> D:\University\Main\Algorithm\ats5\Debug\ats5.pdb (Partial PDB)

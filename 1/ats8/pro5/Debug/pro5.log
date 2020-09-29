@@ -1,0 +1,16 @@
+﻿  pro5.cpp
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(22): warning C4307: -: переполнение целой константы
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(27): warning C4307: -: переполнение целой константы
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(77): warning C4307: -: переполнение целой константы
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(186): warning C4244: =: преобразование "const int64" в "::size_t", возможна потеря данных
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(269): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(297): warning C4018: <: несоответствие типов со знаком и без знака
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(308): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(312): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(316): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(320): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(324): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+d:\university\main\algorithm\ats8\pro5\pro5.cpp(338): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pro5.vcxproj -> D:\University\Main\Algorithm\ats8\Debug\pro5.exe
+  pro5.vcxproj -> D:\University\Main\Algorithm\ats8\Debug\pro5.pdb (Partial PDB)

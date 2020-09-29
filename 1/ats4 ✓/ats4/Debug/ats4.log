@@ -1,0 +1,4 @@
+﻿  ats4.cpp
+d:\university\main\algorithm\ats4\ats4\ats4.cpp(94): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ats4.vcxproj -> D:\University\Main\Algorithm\ats4\Debug\ats4.exe
+  ats4.vcxproj -> D:\University\Main\Algorithm\ats4\Debug\ats4.pdb (Partial PDB)
